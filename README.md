@@ -3,7 +3,7 @@ Tailored towards AMC/AIME preparation.
 Prepared with Mathcha.
 These materials are free to use for self-study or classroom purposes. If you find a typo or have a suggestion for a new topic, please tell me to do so.
 
-ALGEBRA
+ALGEBRA:
 Rates, Proportion, and Variation
 Sequences and Series
 Exponents and Logarithms
@@ -18,7 +18,7 @@ Functional Equations
 Miscellaneous Topics
 Vectors and Matrices
 
-GEOMETRY
+GEOMETRY:
 Angles
 Triangles I
 Triangles II
@@ -36,7 +36,7 @@ Transformations
 Inversive Geometry
 Projective Geometry
 
-COMBINATORICS
+COMBINATORICS:
 Permutations and Combinations
 Basic Probability
 Strategy in Counting
@@ -54,7 +54,7 @@ Events with States
 Generating Functions
 Graph Theory
 
-NUMBER THEORY
+NUMBER THEORY:
 Primes and Divisors
 Bases and Digits
 Modular Arithmetic
